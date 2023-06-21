@@ -16,4 +16,4 @@ jobs:
        - name: update system 
          run: sudo apt-get update -y
        - name: install java
-         run: sudo apt install default-jd
+         run: sudo apt install default-jdk
